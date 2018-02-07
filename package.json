@@ -1,0 +1,16 @@
+{
+  "name": "de-stocker",
+  "version": "1.0.0",
+  "description": "Stock Management Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujith Suresan <sujith.suresan@alshaya.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "helmet": "^3.10.0"
+  }
+}
